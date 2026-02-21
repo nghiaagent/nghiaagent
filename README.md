@@ -22,8 +22,8 @@ Code for my thesis `Genomic Profiling of Drivers of in vitro Proliferation and D
 
 ### Personal development:  
 
-- My interactive advanced R workbook: [nghiaagentrutils](https://github.com/nghiaagent/nghiaagentrutils)
-- R algorithm implementations speed benchmarks: [nghiaagentrutils](https://github.com/nghiaagent/nghiaagentrutils)
+- My interactive advanced R workbook: [2025-advanced-r-notebook](https://github.com/nghiaagent/2025-advanced-r-notebook)
+- R algorithm implementations speed benchmarks: [r_speed_benchmarks](https://github.com/nghiaagent/r_speed_benchmarks)
 - mixOmics: [practice_mixOmics](https://github.com/nghiaagent/practice_mixOmics)
 - seurat: [seurat_practice](https://github.com/nghiaagent/seurat_practice)
 
