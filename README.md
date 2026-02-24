@@ -9,7 +9,7 @@ Link to my CV: [Dropbox](https://www.dropbox.com/scl/fi/xoooh71zrnzof5k164hcd/Mi
 Code for my thesis `Genomic Profiling of Drivers of in vitro Proliferation and Differentiation Potential`.
 
 - RNA-seq: [hmsc-invitro-proliferation-txome](https://github.com/nghiaagent/hmsc-invitro-proliferation-txome)
-- Methylation arrays: [hmsc-invitro-proliferation-dnam](https://github.com/nghiaagent/hmsc-invitro-proliferation-dnam)
+- Methylation arrays: [hmsc-invitro-proliferation-metharray](https://github.com/nghiaagent/hmsc-invitro-proliferation-dnam)
 
 ### Teaching projects:  
 
