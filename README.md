@@ -1,6 +1,6 @@
 ## Nghia Nguyen (Mitchell)
 
-I am a bioinformatics researcher and omics data analyst. Based in Brisbane, Australia.
+I am a bioinformatics researcher and omics data analyst. Based in Melbourne, Australia.
 Link to my CV: [Dropbox](https://www.dropbox.com/scl/fi/xoooh71zrnzof5k164hcd/Mitchell-Nguyen-CV.pdf?rlkey=9obq227ah8ruzajwwocb5c8b1&st=nmn655b4&dl=0)
 
 ## My projects:
