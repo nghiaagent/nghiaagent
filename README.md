@@ -6,7 +6,7 @@ Link to my CV: [Dropbox](https://www.dropbox.com/scl/fi/xoooh71zrnzof5k164hcd/Mi
 ## My projects:
 
 ### Thesis projects:
--# At the Neurogenesis and Stem Cell Group, CGPH, QUT, Brisbane QLD, Australia.
+Undertaken at the Neurogenesis and Stem Cell Group, CGPH, QUT, Brisbane QLD, Australia.  
 Code for my thesis `Genomic Profiling of Drivers of in vitro Proliferation and Differentiation Potential`.
 
 - RNA-seq: [hmsc-invitro-proliferation-txome](https://github.com/nghiaagent/hmsc-invitro-proliferation-txome)
