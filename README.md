@@ -13,7 +13,7 @@ Code for my thesis `Genomic Profiling of Drivers of in vitro Proliferation and D
 - Methylation arrays: [hmsc-invitro-proliferation-metharray](https://github.com/nghiaagent/hmsc-invitro-proliferation-dnam)
 
 ### Teaching projects:  
--# At the School of Biomedical Sciences, QUT, Brisbane QLD, Australia.
+At the School of Biomedical Sciences, QUT, Brisbane QLD, Australia.
 - WebR + Jupyter-based bioinformatics training module:  [LQB385-GSE63310](https://github.com/nghiaagent/LQB385-GSE63310)
 
 ### R packages:  
