@@ -1,18 +1,19 @@
 ## Nghia Nguyen (Mitchell)
 
-I am a bioinformatics researcher and omics data analyst. Based in Melbourne, Australia.
+I am a bioinformatician working on emerging sequencing technologies for clinical metagenomics at the Peter MacCallum Cancer Centre, Parkville VIC, Australia.
 Link to my CV: [Dropbox](https://www.dropbox.com/scl/fi/xoooh71zrnzof5k164hcd/Mitchell-Nguyen-CV.pdf?rlkey=9obq227ah8ruzajwwocb5c8b1&st=nmn655b4&dl=0)
 
 ## My projects:
 
 ### Thesis projects:
+-# At the Neurogenesis and Stem Cell Group, CGPH, QUT, Brisbane QLD, Australia.
 Code for my thesis `Genomic Profiling of Drivers of in vitro Proliferation and Differentiation Potential`.
 
 - RNA-seq: [hmsc-invitro-proliferation-txome](https://github.com/nghiaagent/hmsc-invitro-proliferation-txome)
 - Methylation arrays: [hmsc-invitro-proliferation-metharray](https://github.com/nghiaagent/hmsc-invitro-proliferation-dnam)
 
 ### Teaching projects:  
-
+-# At the School of Biomedical Sciences, QUT, Brisbane QLD, Australia.
 - WebR + Jupyter-based bioinformatics training module:  [LQB385-GSE63310](https://github.com/nghiaagent/LQB385-GSE63310)
 
 ### R packages:  
